@@ -1,0 +1,77 @@
+name: reciper
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.4.1 <4.0.0"
+
+dependencies:
+  arb_translate: ^0.0.1
+  build_runner: ^2.4.11
+  equatable: ^2.0.5
+  file_picker: ^8.0.3
+  flag: ^7.0.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.5
+  flutter_localizations:
+    sdk: flutter
+  flutter_svg: ^2.0.10+1
+  go_router: ^14.1.4
+  http: ^1.2.1
+  image_picker: ^1.1.2
+  in_app_review: ^2.0.9
+  kartal: ^4.0.3
+  lottie: ^3.1.2
+  package_info_plus: ^6.0.0
+  path_provider: ^2.1.3
+  random_string: ^2.3.1
+  shared_preferences: ^2.2.3
+  smooth_page_indicator: ^1.1.0
+
+dev_dependencies:
+  flutter_gen_runner: null
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^3.0.0
+  flutter_native_splash: ^2.4.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/icons/
+    - assets/lottie/
+    - assets/data/
+    - assets/data/food/
+    - assets/images/
+    - assets/onboarding/
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/splash-screen.png
+
+  android_12:
+    image: assets/images/splash-screen.png
+    color: "#ffffff"
+    icon_background_color: "#111111"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/logo-512x512.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  web:
+    generate: true
+    image_path: "assets/images/logo-512x512.png"
+    background_color: "#hexcode"
+    theme_color: "#hexcode"
+  windows:
+    generate: true
+    image_path: "assets/images/logo-512x512.png"
+    icon_size: 48 # min:48, max:256, default: 48
+  macos:
+    generate: true
+    image_path: "assets/images/logo-512x512.png"

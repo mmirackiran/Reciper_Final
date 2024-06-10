@@ -1,0 +1,181 @@
+{
+  "recipes": [
+    {
+      "name": "Lahmacun",
+      "cuisine": "Turkish Cuisine",
+      "description": "Lahmacun is a Turkish dish made by spreading a meat mixture on a thin dough.",
+      "image": "https://images.pexels.com/photos/7545572/pexels-photo-7545572.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "ingredients": [
+        "Flour",
+        "Water",
+        "Salt",
+        "Minced meat",
+        "Onion",
+        "Tomato",
+        "Parsley",
+        "Pepper",
+        "Spices"
+      ],
+      "instructions": [
+        "Prepare the dough and let it rest.",
+        "Prepare the meat mixture.",
+        "Roll out the dough and spread the mixture on top.",
+        "Bake at high temperature."
+      ]
+    },
+    {
+      "name": "Paella",
+      "cuisine": "Spanish Cuisine",
+      "description": "Paella is a rice dish originally from Valencia, Spain.",
+      "image": "https://images.pexels.com/photos/12419160/pexels-photo-12419160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "ingredients": [
+        "Rice",
+        "Chicken",
+        "Seafood",
+        "Olive oil",
+        "Vegetables",
+        "Saffron",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": [
+        "Cook the chicken and seafood.",
+        "Sauté the vegetables.",
+        "Add the rice and sauté.",
+        "Add the saffron and water, and let it cook."
+      ]
+    },
+    {
+      "name": "Sushi",
+      "cuisine": "Japanese Cuisine",
+      "description": "Sushi is a Japanese dish typically made with vinegared rice and various ingredients such as raw fish and vegetables.",
+      "image": "https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "ingredients": [
+        "Sushi rice",
+        "Water",
+        "Rice vinegar",
+        "Sugar",
+        "Salt",
+        "Nori",
+        "Fish",
+        "Vegetables"
+      ],
+      "instructions": [
+        "Wash and cook the rice.",
+        "Mix rice vinegar, sugar, and salt into the cooked rice.",
+        "Spread the rice on nori and add fish and vegetables.",
+        "Roll the sushi and cut into pieces."
+      ]
+    },
+    {
+      "name": "Tacos",
+      "cuisine": "Mexican Cuisine",
+      "description": "Tacos are a traditional Mexican dish made with a folded or rolled tortilla filled with various ingredients.",
+      "image": "https://images.pexels.com/photos/8448322/pexels-photo-8448322.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "ingredients": [
+        "Tortilla",
+        "Meat",
+        "Onion",
+        "Tomato",
+        "Lettuce",
+        "Cheese",
+        "Salsa sauce"
+      ],
+      "instructions": [
+        "Cook and season the meat.",
+        "Place the meat and other ingredients on the tortilla.",
+        "Add salsa sauce and serve."
+      ]
+    },
+    {
+      "name": "Pizza",
+      "cuisine": "Italian Cuisine",
+      "description": "Pizza is an Italian dish made with a thin dough base topped with various ingredients.",
+      "image": "https://images.pexels.com/photos/845811/pexels-photo-845811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "ingredients": [
+        "Flour",
+        "Water",
+        "Salt",
+        "Yeast",
+        "Tomato sauce",
+        "Mozzarella",
+        "Pepperoni",
+        "Vegetables"
+      ],
+      "instructions": [
+        "Prepare the dough and let it rest.",
+        "Roll out the dough and spread tomato sauce on top.",
+        "Add mozzarella and other ingredients.",
+        "Bake at high temperature."
+      ]
+    },
+    {
+      "name": "Pad Thai",
+      "cuisine": "Thai Cuisine",
+      "description": "Pad Thai is a Thai dish made with rice noodles, often served with shrimp, chicken, or tofu.",
+      "image": "https://images.pexels.com/photos/12481161/pexels-photo-12481161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "ingredients": [
+        "Rice noodles",
+        "Shrimp",
+        "Egg",
+        "Bean sprouts",
+        "Green onions",
+        "Peanuts",
+        "Lime",
+        "Tamarind sauce"
+      ],
+      "instructions": [
+        "Cook the rice noodles.",
+        "Cook the shrimp.",
+        "Scramble the egg and cook.",
+        "Mix all ingredients together and add tamarind sauce.",
+        "Serve with lime and peanuts."
+      ]
+    },
+    {
+      "name": "Ratatouille",
+      "cuisine": "French Cuisine",
+      "description": "Ratatouille is a French vegetable dish made with eggplant, zucchini, tomatoes, and bell peppers.",
+      "image": "https://www.allrecipes.com/thmb/F1rucOY3FQT5Ic0oyxdLoqU_yKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222006-disneys-ratatouille-DDMFS-4x3-36eb15843ab548a79e7aab761dac92e1.jpg",
+      "ingredients": [
+        "Eggplant",
+        "Zucchini",
+        "Tomatoes",
+        "Bell peppers",
+        "Onion",
+        "Garlic",
+        "Olive oil",
+        "Spices"
+      ],
+      "instructions": [
+        "Slice the vegetables.",
+        "Sauté the onion and garlic in olive oil.",
+        "Add the other vegetables and cook.",
+        "Add spices and serve."
+      ]
+    },
+    {
+      "name": "Butter Chicken",
+      "cuisine": "Indian Cuisine",
+      "description": "Butter Chicken is an Indian dish made with chicken in a creamy tomato-based sauce.",
+      "image": "https://www.177milkstreet.com/assets/site/Recipes/_large/Butter-Chicken.jpg",
+      "ingredients": [
+        "Chicken",
+        "Yogurt",
+        "Butter",
+        "Tomato puree",
+        "Cream",
+        "Spices",
+        "Garlic",
+        "Ginger"
+      ],
+      "instructions": [
+        "Marinate the chicken in yogurt and spices.",
+        "Sauté garlic and ginger in butter.",
+        "Add tomato puree and spices.",
+        "Add the chicken and cook.",
+        "Stir in the cream and mix well."
+      ]
+    }
+  ]
+}

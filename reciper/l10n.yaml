@@ -1,0 +1,4 @@
+arb-dir: l10n # arb dosyalarının bulunduğu dizin
+arb-translate-api-key: AIzaSyBlNeSHGQHmrG9H0GHGdha7XKoR8kdlik0 # Gemini Translate API Key
+template-arb-file: intl_en.arb # Template dosya
+output-localization-file: app_localizations.dart  # Çıktı dosyası

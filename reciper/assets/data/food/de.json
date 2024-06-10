@@ -1,0 +1,181 @@
+{
+    "recipes": [
+        {
+            "name": "Lahmacun",
+            "cuisine": "Türkische Küche",
+            "description": "Lahmacun ist ein türkisches Gericht, bei dem eine Fleischmischung auf einen dünnen Teig gestrichen wird.",
+            "image": "https://images.pexels.com/photos/7545572/pexels-photo-7545572.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "ingredients": [
+                "Mehl",
+                "Wasser",
+                "Salz",
+                "Hackfleisch",
+                "Zwiebel",
+                "Tomate",
+                "Petersilie",
+                "Pfeffer",
+                "Gewürze"
+            ],
+            "instructions": [
+                "Bereiten Sie den Teig vor und lassen Sie ihn ruhen.",
+                "Bereiten Sie die Fleischmischung vor.",
+                "Rollen Sie den Teig aus und verteilen Sie die Mischung darauf.",
+                "Backen Sie es bei hoher Temperatur."
+            ]
+        },
+        {
+            "name": "Paella",
+            "cuisine": "Spanische Küche",
+            "description": "Paella ist ein Reisgericht aus Valencia, Spanien.",
+            "image": "https://images.pexels.com/photos/12419160/pexels-photo-12419160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "ingredients": [
+                "Reis",
+                "Huhn",
+                "Meeresfrüchte",
+                "Olivenöl",
+                "Gemüse",
+                "Safran",
+                "Salz",
+                "Pfeffer"
+            ],
+            "instructions": [
+                "Kochen Sie das Huhn und die Meeresfrüchte.",
+                "Braten Sie das Gemüse an.",
+                "Fügen Sie den Reis hinzu und braten Sie ihn an.",
+                "Fügen Sie Safran und Wasser hinzu und lassen Sie es kochen."
+            ]
+        },
+        {
+            "name": "Sushi",
+            "cuisine": "Japanische Küche",
+            "description": "Sushi ist ein japanisches Gericht, das typischerweise mit gewürztem Reis und verschiedenen Zutaten wie rohem Fisch und Gemüse zubereitet wird.",
+            "image": "https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "ingredients": [
+                "Sushi-Reis",
+                "Wasser",
+                "Reisessig",
+                "Zucker",
+                "Salz",
+                "Nori",
+                "Fisch",
+                "Gemüse"
+            ],
+            "instructions": [
+                "Waschen und kochen Sie den Reis.",
+                "Mischen Sie Reisessig, Zucker und Salz in den gekochten Reis.",
+                "Verteilen Sie den Reis auf Nori und fügen Sie Fisch und Gemüse hinzu.",
+                "Rollen Sie das Sushi und schneiden Sie es in Stücke."
+            ]
+        },
+        {
+            "name": "Tacos",
+            "cuisine": "Mexikanische Küche",
+            "description": "Tacos sind ein traditionelles mexikanisches Gericht, das aus einer gefalteten oder gerollten Tortilla besteht, die mit verschiedenen Zutaten gefüllt ist.",
+            "image": "https://images.pexels.com/photos/8448322/pexels-photo-8448322.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "ingredients": [
+                "Tortilla",
+                "Fleisch",
+                "Zwiebel",
+                "Tomate",
+                "Salat",
+                "Käse",
+                "Salsa-Soße"
+            ],
+            "instructions": [
+                "Kochen und würzen Sie das Fleisch.",
+                "Legen Sie das Fleisch und andere Zutaten auf die Tortilla.",
+                "Fügen Sie Salsa-Soße hinzu und servieren Sie."
+            ]
+        },
+        {
+            "name": "Pizza",
+            "cuisine": "Italienische Küche",
+            "description": "Pizza ist ein italienisches Gericht, das aus einem dünnen Teigboden besteht, der mit verschiedenen Zutaten belegt ist.",
+            "image": "https://images.pexels.com/photos/845811/pexels-photo-845811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "ingredients": [
+                "Mehl",
+                "Wasser",
+                "Salz",
+                "Hefe",
+                "Tomatensoße",
+                "Mozzarella",
+                "Pepperoni",
+                "Gemüse"
+            ],
+            "instructions": [
+                "Bereiten Sie den Teig vor und lassen Sie ihn ruhen.",
+                "Rollen Sie den Teig aus und verteilen Sie die Tomatensoße darauf.",
+                "Fügen Sie Mozzarella und andere Zutaten hinzu.",
+                "Backen Sie es bei hoher Temperatur."
+            ]
+        },
+        {
+            "name": "Pad Thai",
+            "cuisine": "Thailändische Küche",
+            "description": "Pad Thai ist ein thailändisches Gericht, das mit Reisnudeln zubereitet wird und oft mit Garnelen, Huhn oder Tofu serviert wird.",
+            "image": "https://images.pexels.com/photos/12481161/pexels-photo-12481161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "ingredients": [
+                "Reisnudeln",
+                "Garnelen",
+                "Ei",
+                "Sojasprossen",
+                "Frühlingszwiebeln",
+                "Erdnüsse",
+                "Limette",
+                "Tamarinden-Soße"
+            ],
+            "instructions": [
+                "Kochen Sie die Reisnudeln.",
+                "Kochen Sie die Garnelen.",
+                "Schlagen und kochen Sie das Ei.",
+                "Mischen Sie alle Zutaten und fügen Sie Tamarinden-Soße hinzu.",
+                "Servieren Sie mit Limette und Erdnüssen."
+            ]
+        },
+        {
+            "name": "Ratatouille",
+            "cuisine": "Französische Küche",
+            "description": "Ratatouille ist ein französisches Gemüsegericht, das mit Auberginen, Zucchini, Tomaten und Paprika zubereitet wird.",
+            "image": "https://www.allrecipes.com/thmb/F1rucOY3FQT5Ic0oyxdLoqU_yKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222006-disneys-ratatouille-DDMFS-4x3-36eb15843ab548a79e7aab761dac92e1.jpg",
+            "ingredients": [
+                "Aubergine",
+                "Zucchini",
+                "Tomaten",
+                "Paprika",
+                "Zwiebel",
+                "Knoblauch",
+                "Olivenöl",
+                "Gewürze"
+            ],
+            "instructions": [
+                "Schneiden Sie das Gemüse in Scheiben.",
+                "Braten Sie die Zwiebel und den Knoblauch in Olivenöl an.",
+                "Fügen Sie das restliche Gemüse hinzu und kochen Sie es.",
+                "Fügen Sie Gewürze hinzu und servieren Sie."
+            ]
+        },
+        {
+            "name": "Butter Chicken",
+            "cuisine": "Indische Küche",
+            "description": "Butter Chicken ist ein indisches Gericht, das mit Hühnchen in einer cremigen Tomatensoße zubereitet wird.",
+            "image": "https://www.177milkstreet.com/assets/site/Recipes/_large/Butter-Chicken.jpg",
+            "ingredients": [
+                "Hühnchen",
+                "Joghurt",
+                "Butter",
+                "Tomatenpüree",
+                "Sahne",
+                "Gewürze",
+                "Knoblauch",
+                "Ingwer"
+            ],
+            "instructions": [
+                "Marinieren Sie das Hühnchen in Joghurt und Gewürzen.",
+                "Braten Sie den Knoblauch und den Ingwer in Butter an.",
+                "Fügen Sie Tomatenpüree und Gewürze hinzu.",
+                "Fügen Sie das Hühnchen hinzu und kochen Sie es.",
+                "Rühren Sie die Sahne ein und mischen Sie gut."
+            ]
+        }
+    ]
+}

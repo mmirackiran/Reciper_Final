@@ -1,0 +1,181 @@
+{
+    "recipes": [
+        {
+            "name": "Lahmacun",
+            "cuisine": "Türk Mutfağı",
+            "description": "Lahmacun, ince hamur üzerine kıymalı harç sürülerek yapılan bir Türk yemeğidir.",
+            "image": "https://images.pexels.com/photos/7545572/pexels-photo-7545572.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "ingredients": [
+                "Un",
+                "Su",
+                "Tuz",
+                "Kıyma",
+                "Soğan",
+                "Domates",
+                "Maydanoz",
+                "Biber",
+                "Baharatlar"
+            ],
+            "instructions": [
+                "Hamuru hazırlayın ve dinlendirin.",
+                "Kıymalı harcı hazırlayın.",
+                "Hamuru açın ve üzerine harcı sürün.",
+                "Yüksek sıcaklıkta pişirin."
+            ]
+        },
+        {
+            "name": "Paella",
+            "cuisine": "İspanyol Mutfağı",
+            "description": "Paella, İspanya'nın Valencia bölgesine özgü bir pilav yemeğidir.",
+            "image": "https://images.pexels.com/photos/12419160/pexels-photo-12419160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "ingredients": [
+                "Pirinç",
+                "Tavuk",
+                "Deniz mahsulleri",
+                "Zeytinyağı",
+                "Sebzeler",
+                "Safran",
+                "Tuz",
+                "Biber"
+            ],
+            "instructions": [
+                "Tavuğu ve deniz mahsullerini pişirin.",
+                "Sebzeleri soteleyin.",
+                "Pirinci ekleyin ve kavurun.",
+                "Safranı ve suyu ekleyin, pişmeye bırakın."
+            ]
+        },
+        {
+            "name": "Sushi",
+            "cuisine": "Japon Mutfağı",
+            "description": "Sushi, Japon mutfağına ait, genellikle çiğ balıkla yapılan bir yemektir.",
+            "image": "https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "ingredients": [
+                "Sushi pirinci",
+                "Su",
+                "Pirinç sirkesi",
+                "Şeker",
+                "Tuz",
+                "Nori",
+                "Balık",
+                "Sebzeler"
+            ],
+            "instructions": [
+                "Pirinçi yıkayın ve pişirin.",
+                "Pirinç sirkesi, şeker ve tuzu ekleyin ve karıştırın.",
+                "Nori üzerine pirinci yayın ve balık ile sebzeleri ekleyin.",
+                "Sushi'yi sarın ve dilimleyin."
+            ]
+        },
+        {
+            "name": "Tacos",
+            "cuisine": "Meksika Mutfağı",
+            "description": "Tacos, Meksika mutfağına ait, tortilla içine çeşitli malzemeler konularak yapılan bir yemektir.",
+            "image": "https://images.pexels.com/photos/8448322/pexels-photo-8448322.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "ingredients": [
+                "Tortilla",
+                "Et",
+                "Soğan",
+                "Domates",
+                "Marul",
+                "Peynir",
+                "Salsa sosu"
+            ],
+            "instructions": [
+                "Eti pişirin ve baharatlayın.",
+                "Tortilla üzerine et ve diğer malzemeleri ekleyin.",
+                "Salsa sosu ekleyin ve servis edin."
+            ]
+        },
+        {
+            "name": "Pizza",
+            "cuisine": "İtalyan Mutfağı",
+            "description": "Pizza, İtalyan mutfağına ait, ince hamur üzerine çeşitli malzemeler konularak yapılan bir yemektir.",
+            "image": "https://images.pexels.com/photos/845811/pexels-photo-845811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "ingredients": [
+                "Un",
+                "Su",
+                "Tuz",
+                "Maya",
+                "Domates sosu",
+                "Mozzarella",
+                "Sucuk",
+                "Sebzeler"
+            ],
+            "instructions": [
+                "Hamuru hazırlayın ve dinlendirin.",
+                "Hamuru açın ve üzerine domates sosu sürün.",
+                "Mozzarella ve diğer malzemeleri ekleyin.",
+                "Yüksek sıcaklıkta pişirin."
+            ]
+        },
+        {
+            "name": "Pad Thai",
+            "cuisine": "Tayland Mutfağı",
+            "description": "Pad Thai, Tayland mutfağına ait, pirinç eriştesi ile yapılan bir yemektir.",
+            "image": "https://images.pexels.com/photos/12481161/pexels-photo-12481161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "ingredients": [
+                "Pirinç eriştesi",
+                "Karides",
+                "Yumurta",
+                "Soya filizi",
+                "Taze soğan",
+                "Fıstık",
+                "Lime",
+                "Tamarind sosu"
+            ],
+            "instructions": [
+                "Pirinç eriştesini haşlayın.",
+                "Karidesi pişirin.",
+                "Yumurtayı çırpın ve pişirin.",
+                "Tüm malzemeleri karıştırın ve tamarind sosu ekleyin.",
+                "Lime ve fıstık ile servis edin."
+            ]
+        },
+        {
+            "name": "Ratatouille",
+            "cuisine": "Fransız Mutfağı",
+            "description": "Ratatouille, Fransız mutfağına ait, sebzelerle yapılan bir yemektir.",
+            "image": "https://www.allrecipes.com/thmb/F1rucOY3FQT5Ic0oyxdLoqU_yKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222006-disneys-ratatouille-DDMFS-4x3-36eb15843ab548a79e7aab761dac92e1.jpg",
+            "ingredients": [
+                "Patlıcan",
+                "Kabak",
+                "Domates",
+                "Biber",
+                "Soğan",
+                "Sarımsak",
+                "Zeytinyağı",
+                "Baharatlar"
+            ],
+            "instructions": [
+                "Sebzeleri dilimleyin.",
+                "Soğan ve sarımsağı zeytinyağında soteleyin.",
+                "Diğer sebzeleri ekleyin ve pişirin.",
+                "Baharatları ekleyin ve servis edin."
+            ]
+        },
+        {
+            "name": "Butter Chicken",
+            "cuisine": "Hint Mutfağı",
+            "description": "Butter Chicken, Hint mutfağına ait, tereyağı ve kremalı sos ile yapılan bir tavuk yemeğidir.",
+            "image": "https://www.177milkstreet.com/assets/site/Recipes/_large/Butter-Chicken.jpg",
+            "ingredients": [
+                "Tavuk",
+                "Yoğurt",
+                "Tereyağı",
+                "Domates püresi",
+                "Krema",
+                "Baharatlar",
+                "Sarımsak",
+                "Zencefil"
+            ],
+            "instructions": [
+                "Tavuğu yoğurt ve baharatlarla marine edin.",
+                "Tereyağında sarımsak ve zencefili soteleyin.",
+                "Domates püresi ve baharatları ekleyin.",
+                "Tavuğu ekleyin ve pişirin.",
+                "Kremayı ekleyin ve karıştırın."
+            ]
+        }
+    ]
+}

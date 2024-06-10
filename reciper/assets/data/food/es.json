@@ -1,0 +1,181 @@
+{
+  "recipes": [
+    {
+      "name": "Lahmacun",
+      "cuisine": "Cocina Turca",
+      "description": "El Lahmacun es un plato turco hecho extendiendo una mezcla de carne sobre una masa fina.",
+      "image": "https://images.pexels.com/photos/7545572/pexels-photo-7545572.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "ingredients": [
+        "Harina",
+        "Agua",
+        "Sal",
+        "Carne picada",
+        "Cebolla",
+        "Tomate",
+        "Perejil",
+        "Pimienta",
+        "Especias"
+      ],
+      "instructions": [
+        "Prepare la masa y déjela reposar.",
+        "Prepare la mezcla de carne.",
+        "Extienda la masa y esparza la mezcla encima.",
+        "Hornee a alta temperatura."
+      ]
+    },
+    {
+      "name": "Paella",
+      "cuisine": "Cocina Española",
+      "description": "La paella es un plato de arroz originario de Valencia, España.",
+      "image": "https://images.pexels.com/photos/12419160/pexels-photo-12419160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "ingredients": [
+        "Arroz",
+        "Pollo",
+        "Mariscos",
+        "Aceite de oliva",
+        "Verduras",
+        "Azafrán",
+        "Sal",
+        "Pimienta"
+      ],
+      "instructions": [
+        "Cocine el pollo y los mariscos.",
+        "Saltee las verduras.",
+        "Añada el arroz y saltee.",
+        "Añada el azafrán y el agua, y deje cocinar."
+      ]
+    },
+    {
+      "name": "Sushi",
+      "cuisine": "Cocina Japonesa",
+      "description": "El sushi es un plato japonés hecho típicamente con arroz avinagrado y varios ingredientes como pescado crudo y verduras.",
+      "image": "https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "ingredients": [
+        "Arroz para sushi",
+        "Agua",
+        "Vinagre de arroz",
+        "Azúcar",
+        "Sal",
+        "Nori",
+        "Pescado",
+        "Verduras"
+      ],
+      "instructions": [
+        "Lave y cocine el arroz.",
+        "Mezcle vinagre de arroz, azúcar y sal en el arroz cocido.",
+        "Extienda el arroz en nori y añada pescado y verduras.",
+        "Enrolle el sushi y córtelo en piezas."
+      ]
+    },
+    {
+      "name": "Tacos",
+      "cuisine": "Cocina Mexicana",
+      "description": "Los tacos son un plato tradicional mexicano hecho con una tortilla doblada o enrollada y rellena con varios ingredientes.",
+      "image": "https://images.pexels.com/photos/8448322/pexels-photo-8448322.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "ingredients": [
+        "Tortilla",
+        "Carne",
+        "Cebolla",
+        "Tomate",
+        "Lechuga",
+        "Queso",
+        "Salsa"
+      ],
+      "instructions": [
+        "Cocine y sazone la carne.",
+        "Coloque la carne y otros ingredientes en la tortilla.",
+        "Añada salsa y sirva."
+      ]
+    },
+    {
+      "name": "Pizza",
+      "cuisine": "Cocina Italiana",
+      "description": "La pizza es un plato italiano hecho con una base de masa fina cubierta con varios ingredientes.",
+      "image": "https://images.pexels.com/photos/845811/pexels-photo-845811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "ingredients": [
+        "Harina",
+        "Agua",
+        "Sal",
+        "Levadura",
+        "Salsa de tomate",
+        "Mozzarella",
+        "Pepperoni",
+        "Verduras"
+      ],
+      "instructions": [
+        "Prepare la masa y déjela reposar.",
+        "Extienda la masa y esparza la salsa de tomate encima.",
+        "Añada mozzarella y otros ingredientes.",
+        "Hornee a alta temperatura."
+      ]
+    },
+    {
+      "name": "Pad Thai",
+      "cuisine": "Cocina Tailandesa",
+      "description": "El Pad Thai es un plato tailandés hecho con fideos de arroz, a menudo servido con camarones, pollo o tofu.",
+      "image": "https://images.pexels.com/photos/12481161/pexels-photo-12481161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "ingredients": [
+        "Fideos de arroz",
+        "Camarones",
+        "Huevo",
+        "Brotes de soja",
+        "Cebolletas",
+        "Cacahuetes",
+        "Lima",
+        "Salsa de tamarindo"
+      ],
+      "instructions": [
+        "Cocine los fideos de arroz.",
+        "Cocine los camarones.",
+        "Bata el huevo y cocínelo.",
+        "Mezcle todos los ingredientes y añada salsa de tamarindo.",
+        "Sirva con lima y cacahuetes."
+      ]
+    },
+    {
+      "name": "Ratatouille",
+      "cuisine": "Cocina Francesa",
+      "description": "El Ratatouille es un plato de verduras francés hecho con berenjena, calabacín, tomates y pimientos.",
+      "image": "https://www.allrecipes.com/thmb/F1rucOY3FQT5Ic0oyxdLoqU_yKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222006-disneys-ratatouille-DDMFS-4x3-36eb15843ab548a79e7aab761dac92e1.jpg",
+      "ingredients": [
+        "Berenjena",
+        "Calabacín",
+        "Tomates",
+        "Pimientos",
+        "Cebolla",
+        "Ajo",
+        "Aceite de oliva",
+        "Especias"
+      ],
+      "instructions": [
+        "Corte las verduras en rodajas.",
+        "Saltee la cebolla y el ajo en aceite de oliva.",
+        "Añada las demás verduras y cocine.",
+        "Añada especias y sirva."
+      ]
+    },
+    {
+      "name": "Pollo a la Mantequilla",
+      "cuisine": "Cocina India",
+      "description": "El Pollo a la Mantequilla es un plato indio hecho con pollo en una salsa cremosa a base de tomate.",
+      "image": "https://www.177milkstreet.com/assets/site/Recipes/_large/Butter-Chicken.jpg",
+      "ingredients": [
+        "Pollo",
+        "Yogur",
+        "Mantequilla",
+        "Puré de tomate",
+        "Crema",
+        "Especias",
+        "Ajo",
+        "Jengibre"
+      ],
+      "instructions": [
+        "Marine el pollo en yogur y especias.",
+        "Saltee el ajo y el jengibre en mantequilla.",
+        "Añada el puré de tomate y las especias.",
+        "Añada el pollo y cocine.",
+        "Añada la crema y mezcle bien."
+      ]
+    }
+  ]
+}
